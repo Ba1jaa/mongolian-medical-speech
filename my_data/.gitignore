@@ -1,0 +1,4 @@
+# Keep recordings and consent forms private
+wavs/*.wav
+wavs/*.flac
+consent_signed/

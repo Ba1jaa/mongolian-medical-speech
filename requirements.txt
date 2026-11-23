@@ -1,0 +1,19 @@
+# Main environment (ASR + MMS-TTS + API)
+torch
+torchaudio
+transformers>=4.46
+datasets>=2.19,<4.0     # <4.0 because FLEURS / Common Voice still use loading scripts
+accelerate
+evaluate
+jiwer
+librosa
+soundfile
+scipy
+pandas
+tensorboard
+fastapi
+uvicorn
+python-multipart
+
+# NOTE: for custom TTS training with Coqui, use a SEPARATE virtual environment:
+#   pip install coqui-tts

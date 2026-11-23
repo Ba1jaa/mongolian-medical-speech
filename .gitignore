@@ -1,0 +1,9 @@
+.DS_Store
+__MACOSX/
+*.zip
+data/
+outputs/
+my_data/wavs/
+my_data/test_wavs/
+my_data/consent_signed/
+__pycache__/
