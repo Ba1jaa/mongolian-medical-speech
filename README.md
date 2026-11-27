@@ -11,6 +11,8 @@ My medical recordings (my_data/wavs)  +  Common Voice  +  FLEURS
    -> FastAPI server (/stt, /tts)
 ```
 
+**Project plan:** objectives, work packages, milestones, KPIs and risks are in [PROJECT_PLAN.md](PROJECT_PLAN.md).
+
 **Contents**
 1. [What has been done](#1-what-has-been-done)
 2. [Project structure](#2-project-structure)
